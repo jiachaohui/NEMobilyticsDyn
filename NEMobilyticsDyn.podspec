@@ -6,7 +6,8 @@ Pod::Spec.new do |s|
   s.summary      = "NEMobilyticsDyn is an iOS tracking tools for Netease(dynamic framework)."
 
   s.description  = <<-DESC
-                NEMobilyticsDyn an iOS tracking tools for NetEase Internal Usage.
+                NEMobilyticsDyn an iOS tracking tools for NetEase Internal Usage. This is the dynamic version.
+                Genarally NEMobilytics (static framework) is recomentted.
                    DESC
 
   s.homepage     = "https://hubble.netease.com/"
