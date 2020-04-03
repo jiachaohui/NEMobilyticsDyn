@@ -15,6 +15,6 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "8.0"
   s.source       = { :git => "https://github.com/jiachaohui/NEMobilyticsDyn.git", :tag => "#{s.version}" }
 
-  s.vendored_frameworks = 'NEMobilytics.framework'
+  s.vendored_frameworks = 'NEMobilyticsDyn.framework'
 
 end
